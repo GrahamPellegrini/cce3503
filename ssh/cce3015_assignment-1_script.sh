@@ -15,7 +15,7 @@
 #SBATCH --mail-user=graham.pellegrini.22@um.edu.mt
 #SBATCH --mail-type=all
 #
-VENV=/opt/users/gpel0001/cce3503/cce3503_venv
+VENV=/opt/users/gpel0001/cce3503/cce3503-venv
 if [ -d $VENV ]; then
    echo Virtual environment found, activating
    VENV+=/bin/activate
