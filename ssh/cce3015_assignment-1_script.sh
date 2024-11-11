@@ -9,7 +9,7 @@
 #SBATCH --output=/opt/users/gpel0001/cce3503/ssh/out/cce3503_slurm_%A_%a.out
 #SBATCH --error=/opt/users/gpel0001/cce3503/ssh/err/cce3503_slurm_%A_%a.err
 #SBATCH --job-name=cce3503_feature_analysis
-#SBATCH --reservation = cce3015 cce3207
+#SBATCH --reservation = cce3015 
 #SBATCH --account=undergrad
 # email user with progress
 #SBATCH --mail-user=graham.pellegrini.22@um.edu.mt
