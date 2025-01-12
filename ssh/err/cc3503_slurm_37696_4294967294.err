@@ -1,0 +1,16 @@
+[NbConvertApp] Converting notebook /opt/users/gpel0001/cce3503/assignment-2/multi-label-classification.ipynb to notebook
+/opt/users/gpel0001/cce3503/cce3503-venv/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/opt/users/gpel0001/cce3503/cce3503-venv/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/opt/users/gpel0001/cce3503/cce3503-venv/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/opt/users/gpel0001/cce3503/cce3503-venv/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/opt/users/gpel0001/cce3503/cce3503-venv/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/opt/users/gpel0001/cce3503/cce3503-venv/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/opt/users/gpel0001/cce3503/cce3503-venv/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:690: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (1000) reached and the optimization hasn't converged yet.
+  warnings.warn(
+[NbConvertApp] Writing 172614 bytes to /opt/users/gpel0001/cce3503/assignment-2/multi-label-classification.ipynb
